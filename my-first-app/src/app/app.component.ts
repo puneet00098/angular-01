@@ -1,10 +1,9 @@
-import { Component } from '@angular/core';
+import { Component} from '@angular/core';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: "syne-root",
+  template: '<h1>Welcome to Syncheron Pvt. Ltd.</h1><hr><h6>Sesigned and developed by Synechron Employees!..'
 })
-export class AppComponent {
-  title = 'my-first-app';
-}
+export class AppComponent{
+
+  }
